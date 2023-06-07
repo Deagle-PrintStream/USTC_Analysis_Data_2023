@@ -2,7 +2,7 @@
 
 **数据分析及实践 文献调研**
 
-*刘眭怿 PB20061256 2023.5.23*
+*唐兴平 PB20061145*
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
